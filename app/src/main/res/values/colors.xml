@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryColorDark">#1976D2</color>
+    <color name="accentColor">#F44336</color>
+
+    <color name="primaryBackgroundColor">#EEEEEE</color>
+    <color name="spinnerColor">#9F489B</color>
+
+    <color name="primaryTextColor">#161313</color>
+    <color name="secondaryTextColor">#666262</color>
+
+    <color name="primary_btn_color">#DA5656</color>
+    <color name="secondary_btn_color">#FFF57F7F</color>
+    <color name="pressed_btn_color">#B71C1C</color>
+
+    <color name="locate_primary_btn_color">#388E3C</color>
+    <color name="locate_secondary_btn_color">#4CAF50</color>
+    <color name="locate_pressed_btn_color">#1B5E20</color>
+
+    <color name="white">#ffffff</color>
+    <color name="splash_background">#94e5f2</color>
+</resources>

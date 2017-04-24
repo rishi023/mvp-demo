@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_8b2235ed5941d4d6e9fcb675f3800e8d86770c77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_881f3cb055c92c60f3bca044aab6796957ca266c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.4.0_5c1ef9b57e0ad7a8bb670b07cd07918a6a6cd108\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_95ea39dedecbcccec0f26cef92aff0fcea53c0db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_96d6b443b9624daa431349b2c11f69e2c34d47b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_4791bf49a1968445b3dae701bb71808616ce5858\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a973022a1437352179b6ad14746195b97b7b3889">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e165f9a6f69b5d84f1f20228c7ed66af740b5919\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_1d82cedc17ad7e68cf82ec3d9441f087c1e5e6ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.0.1\36e5996abe8655a6471b82af5ac1cd6786aecf85\jackson-annotations-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="36e5996abe8655a6471b82af5ac1cd6786aecf85">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.0.1_af67eea3b816001467f9ef8c6c9b5fc9f23c356d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="39f6212433ba6c61b6f3be9019e34bd78682bc59">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3ddd0051668b9fa08cf3fc4d5dd2083691cdd4bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_4125664ce6cf658b0d8b0440d3afc10e73f5fd4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_a96ca5aed2f1868f3a8576a898e1c686316718d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_dde29c0e0e03a276fa325f634235fa07132c995a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_ae8bcf02b79423ab8acbf95b73fb35d05107a20f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_f5ae3d199d0e7355e2b380a7e23665fb6f833614\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_f7ed05067113419c2515f3cf120f753de1aeaca3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_310403218acae7940adc73735202d399cbc0ffb2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.0.2_adbbad12bc288d8f5d4981ee6ba821724f673264\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.0.1\481d14ec21e034ed45217c4854dbbf15940ce108\jackson-core-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="481d14ec21e034ed45217c4854dbbf15940ce108">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.0.1_9600bb34045cca26c130349309a4209b0ab00c7d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.0.1\1d160beb3f8924d5b98d03d94a149021146f71cc\jackson-databind-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1d160beb3f8924d5b98d03d94a149021146f71cc">
+        <dex dex="C:\Users\Lenovo\Desktop\didi\prototype\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.0.1_c17e260ffad4c866590727539516c6d475475a43\classes.dex" />
+    </item>
+
+</items>

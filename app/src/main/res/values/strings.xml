@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_activity_dashboard">LOCATION</string>
+    <string name="locate">LOCATE</string>
+    <string name="name">Name</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="no_map_app">You don\'t have Map App Installed</string>
+    <string name="unexpected_error">Unexpected Error</string>
+    <string name="permission_message">You need to allow access to SMS</string>
+    <string name="phone_no">Enter Phone No</string>
+    <string name="dialog_action_save">SAVE</string>
+    <string name="enter_number">Please enter a number</string>
+    <string name="no_format">+919999888877</string>
+    <string name="mob_no">Enter No</string>
+    <string name="change_no">CHANGE No</string>
+    <string name="access_sms">You need to allow access to SMS</string>
+
+</resources>
